@@ -61,6 +61,6 @@
 
 <h2 align="center">Connect with me </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/gayan-thusitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gayan.thusith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gayan-thusitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="25" width="25" /></a>
+<a href="https://www.instagram.com/gayan.thusith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="25" width="40" /></a>
 </p>
